@@ -109,4 +109,3 @@ with open(pkl_filename, 'rb') as file:
 # with col2:
 #     with st.form('Form2'):
 #         submitted4 = st.slider(label='How would you rate this survey?', min_value=0, max_value=100, key=100)
-#         submitted5 = st.form_submit_button('Submit')
