@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
+import sklearn
 
 pkl_filename = "pickle_model.pkl"
 st.header("AI-Driven Mental Health Risk Assmt. Webapp")
