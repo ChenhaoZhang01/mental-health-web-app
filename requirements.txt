@@ -1,2 +1,9 @@
 streamlit
 pandas
+pickle
+numpy
+scipy
+matplotlib
+plotly
+joblib
+scikit-learn
