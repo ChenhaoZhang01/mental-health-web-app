@@ -10,3 +10,4 @@ matplotlib
 plotly
 joblib
 scikit-learn
+python==3.4
