@@ -2,6 +2,9 @@ streamlit
 pandas
 pickle
 numpy
+scipy
+conda-lock
+pydata-sphinx-theme
 seaborn
 matplotlib
 plotly
